@@ -14,9 +14,9 @@ I'm a Computer Engineering graduate from Politecnico di Milano, passionate about
 
 ## 💼 Featured Projects
 Here are some of my most significant projects:
-1. [Codex Naturalis Java](link-to-project): Brief description
-2. [Self Driving Car](link-to-project): Brief description
-3. [Chess Game C#](link-to-project): Brief description
+1. [Codex Naturalis](link-to-project): final project for Software Engineering Course at PoliMi 
+2. [Self Driving Car](https://github.com/NiccoloSalvi/Self-Driving-Car): Self Driving Car as high school final project 
+3. [Crossword Generator](https://github.com/NiccoloSalvi/Crossword): Crossword Generator developed during my high school
 
 ## 🎯 Goals for [Current Year]
 - [ ] Deepen my expertise in firmware development
