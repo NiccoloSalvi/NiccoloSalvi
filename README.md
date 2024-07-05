@@ -1,16 +1,42 @@
-### Hi there 👋
+# 👋 Hello, I'm Niccolò
 
-<!--
-**NiccoloSalvi/NiccoloSalvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a Computer Engineering graduate from Politecnico di Milano, passionate about artificial intelligence, robotics, and firmware development. I'm constantly seeking new challenges and opportunities to expand my knowledge in the field of computer science and emerging technologies.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Programming Languages:** Python, C, C++, C#, Java, Golang, SQL
+- **AI Frameworks:** TensorFlow, PyTorch, Keras
+- **Tools:** Git, Docker, Linux
+- **Other Skills:** Computer Vision, NLP, Robotics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I'm currently learning
+- Firmware Development for an innovative startup
+
+## 💼 Featured Projects
+Here are some of my most significant projects:
+1. [Codex Naturalis Java](link-to-project): Brief description
+2. [Self Driving Car](link-to-project): Brief description
+3. [Chess Game C#](link-to-project): Brief description
+
+## 🎯 Goals for [Current Year]
+- [ ] Deepen my expertise in firmware development
+- [ ] Contribute to open-source projects in the AI field
+
+## 📚 My Interests
+Beyond programming, I'm interested in:
+- Artificial Intelligence (Machine Learning, Deep Learning)
+- Computer Vision
+- Natural Language Processing (NLP)
+- Robotics
+
+## 📫 How to reach me
+- 📧 Email: [nicco.salvi@gmail.com]
+- 🔗 LinkedIn: [https://www.linkedin.com/in/salviniccolo/]
+- 🐦 Twitter: [https://x.com/SalviNiccolo]
+
+## 🤝 Open to collaborate on
+I'm always excited to work on projects related to artificial intelligence, robotics, and firmware development. If you have any ideas or projects you'd like to collaborate on, feel free to reach out!
+
+---
+
+⭐️ From [YourGitHubUsername](https://github.com/NiccoloSalvi)
