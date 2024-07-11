@@ -39,4 +39,4 @@ I'm always excited to work on projects related to artificial intelligence, robot
 
 ---
 
-⭐️ From [YourGitHubUsername](https://github.com/NiccoloSalvi)
+⭐️ From [Niccolò](https://github.com/NiccoloSalvi)
