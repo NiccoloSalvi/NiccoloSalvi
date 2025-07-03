@@ -4,7 +4,7 @@
 I'm a Computer Engineering graduate from Politecnico di Milano, passionate about artificial intelligence, robotics, and firmware development. I'm constantly seeking new challenges and opportunities to expand my knowledge in the field of computer science and emerging technologies.
 
 ## 🛠 Skills
-- **Programming Languages:** Python, C, C++, C#, Java, Golang, SQL
+- **Programming Languages:** Python, C, C++, C#, Java, SQL
 - **AI Frameworks:** TensorFlow, PyTorch, Keras
 - **Tools:** Git, Docker, Linux
 - **Other Skills:** Computer Vision, NLP, Robotics
@@ -14,9 +14,11 @@ I'm a Computer Engineering graduate from Politecnico di Milano, passionate about
 
 ## 💼 Featured Projects
 Here are some of my most significant projects:
-1. [Codex Naturalis](link-to-project): final project for Software Engineering Course at PoliMi 
-2. [Self Driving Car](https://github.com/NiccoloSalvi/Self-Driving-Car): Self Driving Car as high school final project 
-3. [Crossword Generator](https://github.com/NiccoloSalvi/Crossword): Crossword Generator developed during my high school
+1. [Codex Naturalis](https://github.com/NiccoloSalvi/Codex-Naturalis): final project for Software Engineering course at PoliMi
+2. [Space Occupancy](https://github.com/NiccoloSalvi/IACV-SpaceOccupancy): final project for Image Analysis and Computer Vision course at PoliMi
+3. [Credit Card Fraud Detection](https://github.com/NiccoloSalvi/credit-card-fraud-detection): final project for Numerical Analysis For Machine Learning course at PoliMi
+4. [Self Driving Car](https://github.com/NiccoloSalvi/Self-Driving-Car): Self Driving Car as high school final project 
+5. [Crossword Generator](https://github.com/NiccoloSalvi/Crossword): Crossword Generator developed during my high school
 
 ## 🎯 Goals for [Current Year]
 - [ ] Deepen my expertise in firmware development
